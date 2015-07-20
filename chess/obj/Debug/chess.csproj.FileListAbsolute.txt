@@ -1,0 +1,5 @@
+c:\users\gyafdxis\documents\visual studio 2010\Projects\chess\chess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\gyafdxis\documents\visual studio 2010\Projects\chess\chess\bin\chess.dll
+c:\users\gyafdxis\documents\visual studio 2010\Projects\chess\chess\bin\chess.pdb
+c:\users\gyafdxis\documents\visual studio 2010\Projects\chess\chess\obj\Debug\chess.dll
+c:\users\gyafdxis\documents\visual studio 2010\Projects\chess\chess\obj\Debug\chess.pdb
